@@ -36,7 +36,7 @@ My engineering approach focuses on:
 A full clean-room conversion of a TradingView strategy with modular MQL5 design, real-time charts, and MT5 backtests.
 
 👉 **Repository:**  
-https://github.com/maks-gram/pine-to-mql5-ema-slope-cross
+https://github.com/maxime-fintech/pine-to-mql5-ema-slope-cross
 
 ---
 
