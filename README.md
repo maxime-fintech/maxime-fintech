@@ -69,4 +69,10 @@ If you need help with:
 
 Feel free to reach out — I’m open to collaboration and freelance work.
 
----
+--- 
+
+GitHub: https://github.com/maxime-fintech
+
+MQL5 Freelance: https://www.mql5.com/en/users/maxime.fintech
+
+LinkedIn: https://www.linkedin.com/in/maxime-nikolaev-01026827a
